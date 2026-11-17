@@ -1,16 +1,21 @@
-Hi, I'm Pablo.
-Paid Media Specialist focused on performance marketing, data-driven decisions and continuous experimentation.
+# Hi, I'm Pablo Casco 👋
 
-What I do
+**Paid Media Specialist** focused on performance marketing, data-driven decisions and continuous experimentation.
+
+## What I do
+
 - Paid Media Strategy
 - Meta Ads & Google Ads
 - TikTok Ads & Mercado Libre Ads
 - GA4, GTM & Looker Studio
 - AI applied to digital advertising
-My approach
+
+## My approach
 
 I believe in continuous testing, understanding consumer behavior and turning data into actionable business decisions.
 
-Let's connect
+## Let's connect
 
-Portfolio · LinkedIn · Contact
+🌐 [Portfolio](https://pablocasco.media/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/pablocasco-paidmedia/)
